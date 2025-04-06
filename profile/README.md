@@ -1,5 +1,7 @@
 # Play the Original Super Mario Bros Game Online for Free
 
+[![Super Mario Bros](http://supermarionline.com/assets/images/og-image.png)](https://supermarionline.com/)
+
 The original *Super Mario Bros*, released by Nintendo in 1985 for the Nintendo Entertainment System (NES), is one of the most iconic platformer games in history. Featuring Mario’s quest through the Mushroom Kingdom to rescue Princess Toadstool from Bowser, the game laid the foundation for countless sequels and inspired generations of gamers. Today, it is possible to play the original Super Mario Bros online for free through modern web-based emulators, bringing nostalgic gameplay to any browser without the need for console hardware or downloads.
 
 Play Here For FREE: (https://supermarionline.com)
