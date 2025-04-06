@@ -37,7 +37,7 @@ Web-based versions of Super Mario Bros use JavaScript and WebAssembly-based emul
 4. **Use Keyboard or Gamepad**  
    Default controls:  
    - Arrow keys: Move Mario  
-   - Z / X: Jump and Run/Fire  
+   - Space/Ctrl: Jump and Run/Fire  
    - Enter / Shift: Start or Select  
 
    Some platforms allow players to remap keys or connect a USB game controller.
